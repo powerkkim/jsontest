@@ -1,0 +1,19 @@
+{
+  "vod_contents": [{
+    "title": "vod list 1",
+    "content_id": "{EC04F1AC-44C6-4961-8EDE-F4D775535781}",
+    "poster": "/kids_new/10350/K40323_1.jpg"
+  }, {
+    "title": "vod list 2",
+    "content_id": "{EC04F1AC-44C6-4961-8EDE-F4D775535781}",
+    "poster": "/kids_new/10350/K40323_2.jpg"
+  }, {
+    "title": "vod list 3",
+    "content_id": "{EC04F1AC-44C6-4961-8EDE-F4D775535781}",
+    "poster": "/kids_new/10350/K40323_3.jpg"
+  }],
+  "img_url": "/kids_new/10400/K88372_1_162x91.jpg",
+  "event_type": "event_banner",
+  "event_id": "banner",
+  "b_skin": "/bskin_banner.png"
+}
